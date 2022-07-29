@@ -1,13 +1,15 @@
 ﻿# Phone Controlled Robot Arm 
 This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
 
+# About the Creator 
+Hi my name is Anusha, i go to Saratoga High School and i am a incoming sophomore. I have always been interested in coding and robotics, which is why i chose this project. This project is perfect combination of both of my interests, it helps me learn new things as well as use my prior expieeriance. When i say prior expieriance i mean being a part of robotics teams since i was in 4th Grade. I also have taken several coding class in Python and Java. So that is a little about me and now i will show you my project and the process i went through to make it. 
+
+<a href="https://ibb.co/7bJPXym"><img src="https://i.ibb.co/HXD6Vg8/WIN-2022029-12-49-13-Pro.jpg" alt="WIN-20220729-12-49-13-Pro" border="0" height="400" width="400"></a>
+
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
 | Anusha| Saratoga High School | Software Engineering | Incoming Sophomore  
 
-![Headstone Image](https://ibb.co/7bJPXym)
- # About the Creator 
- Hi my name is Anusha, i go to Saratoga High School and i am a incoming sophomore. I have always been interested in coding and robotics, which is why i chose this project. This project is perfect combination of both of my interests, it helps me learn new things as well as use my prior expieeriance. When i say prior expieriance i mean being a part of robotics teams since i was in 4th Grade. I also have taken several coding class in Python and Java. So that is a little about me and now i will show you my project and the process i went through to make it. 
 # Final Milestone
 My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
 
