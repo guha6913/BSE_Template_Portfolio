@@ -4,7 +4,9 @@ This will serve as a brief description of your project. Limit this to three sent
 # About the Creator 
 Hi my name is Anusha, i go to Saratoga High School and i am a incoming sophomore. I have always been interested in coding and robotics, which is why i chose this project. This project is perfect combination of both of my interests, it helps me learn new things as well as use my prior expieeriance. When i say prior expieriance i mean being a part of robotics teams since i was in 4th Grade. I also have taken several coding class in Python and Java. So that is a little about me and now i will show you my project and the process i went through to make it. 
 
-<a href="https://ibb.co/7bJPXym"><img src="https://i.ibb.co/HXD6Vg8/WIN-2022029-12-49-13-Pro.jpg" alt="WIN-20220729-12-49-13-Pro" border="0" height="400" width="400"></a>
+<p align="center">
+<a href="https://ibb.co/7bJPXym"><img src="https://i.ibb.co/HXD6Vg8/WIN-2022029-12-49-13-Pro.jpg" alt="WIN-20220729-12-49-13-Pro" border="0" height="400" width="600"></a>
+</p>
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
