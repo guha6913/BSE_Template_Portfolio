@@ -5,8 +5,9 @@ This will serve as a brief description of your project. Limit this to three sent
 |:--:|:--:|:--:|:--:|
 | Anusha| Saratoga High School | Software Engineering | Incoming Sophomore  
 
-![Headstone Image](https://github.com/BlueStampEng/BSE_Template_Portfolio/blob/4655d8c4b2f1d0fa5912511d0b39542520b9f88e/branding/BlueStamp-Engineering-Logo-White.png)
-  
+![Headstone Image](https://ibb.co/7bJPXym)
+ # About the Creator 
+ Hi my name is Anusha, i go to Saratoga High School and i am a incoming sophomore. I have always been interested in coding and robotics, which is why i chose this project. This project is perfect combination of both of my interests, it helps me learn new things as well as use my prior expieeriance. When i say prior expieriance i mean being a part of robotics teams since i was in 4th Grade. I also have taken several coding class in Python and Java. So that is a little about me and now i will show you my project and the process i went through to make it. 
 # Final Milestone
 My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
 
@@ -19,6 +20,6 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 # First Milestone
   
 
-My first milestone was setting up and hooking up the Raspberry Pi and all the necessary components onto my tv. The heatsinks, the sd card, and the controller were all added to ensure that the Raspberry Pi was working. Instead of the Raspberry Pi Os software, I had to first download a different software called Retro Pie. With Retro Pie, I needed to download an Imager for Raspberry Pi. Raspberry Pi Imager automatically downloads a list of the latest versions of Raspbian supported by the Raspberry Pi. Raspbian is the typical Raspberry Pi Os software, the one I needed on the Raspberry Pi was Retro Pi. With the included SD card, I plugged in the SD into my computer and launched the Imager. The imager allowed me to set the Operating System to Retro Pi instead of Raspbian onto the SD card. With the OS imaged onto the SD, I plugged the SD card back into the Raspberry Pi and rebooted the system and Retro Bi booted up.
+My first milestone was to learn how to opperate a servo motor using a app. To do this i had to use a arduino, blutooth module, and jumper wires to assemble the circut needed for the servo motor to spin. I also had to create a blutooth connection code and upload it to the arduino in order for the app to connect to the servo. Once all this was done i was finally able to make the servo spin. This summerizes what i did for the First Milestone. 
 
 [![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=CaCazFBhYKs "First Milestone"){:target="_blank" rel="noopener"}
