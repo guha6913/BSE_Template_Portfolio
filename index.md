@@ -1,6 +1,5 @@
 ﻿# Phone Controlled Robot Arm 
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
-
+This project is basically the best combination of Software Engineering and Robotics. You get build, code, and control a robot arm and learn throughout the process. 
 # About the Creator 
 Hi my name is Anusha, i go to Saratoga High School and i am a incoming sophomore. I have always been interested in coding and robotics, which is why i chose this project. This project is perfect combination of both of my interests, it helps me learn new things as well as use my prior expieeriance. When i say prior expieriance i mean being a part of robotics teams since i was in 4th Grade. I also have taken several coding class in Python and Java. So that is a little about me and now i will show you my project and the process i went through to make it. 
 
@@ -24,6 +23,6 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 # First Milestone
   
 
-My first milestone was to learn how to opperate a servo motor using a app. To do this i had to use a arduino, blutooth module, and jumper wires to assemble the circut needed for the servo motor to spin. I also had to create a blutooth connection code and upload it to the arduino in order for the app to connect to the servo. Once all this was done i was finally able to make the servo spin. This summerizes what i did for the First Milestone. 
+My first milestone was to learn how to opperate a servo motor using a app. To do this i had to use a arduino, bluetooth module, and jumper wires to assemble the circut needed for the servo motor to spin. I also had to create a blutooth connection code and upload it to the arduino in order for the app to connect to the servo. Once all this was done i was finally able to make the servo spin. This summerizes what i did for the First Milestone. 
 
-[![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=CaCazFBhYKs "First Milestone"){:target="_blank" rel="noopener"}
+[![First Milestone](https://www.youtube.com/watch?v=W84QlARqhuY)
