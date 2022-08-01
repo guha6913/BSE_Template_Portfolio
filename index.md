@@ -25,4 +25,5 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 
 My first milestone was to learn how to opperate a servo motor using a app. To do this i had to use a arduino, bluetooth module, and jumper wires to assemble the circut needed for the servo motor to spin. I also had to create a blutooth connection code and upload it to the arduino in order for the app to connect to the servo. Once all this was done i was finally able to make the servo spin. This summerizes what i did for the First Milestone. 
 
-[![First Milestone](https://www.youtube.com/watch?v=W84QlARqhuY)
+[![First Milestone](https://youtu.be/W84QlARqhuY){:target="_blank" rel="noopener"}
+
