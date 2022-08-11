@@ -56,6 +56,7 @@ This is the wiring diagram that is needed of the servos.
 # Phone Controlled Robot Arm Code 
 This is the code that i used to get the bluetooth connection and the arm moving. 
 
+```
 
 #include <Servo.h>
 Servo myservo1;  // create servo object to control a servo
@@ -206,3 +207,4 @@ if(newLineReceived)
    
 }
 
+```
