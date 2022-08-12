@@ -13,7 +13,9 @@ Hi my name is Anusha, i go to Saratoga High School and i am a incoming sophomore
 
 # My Project 
 This is a image of my final project. 
-
+<a href="https://ibb.co/X3TCp56"><img src="https://i.ibb.co/tx5Jc2n/IMG-3592.jpg" alt="IMG-3592" border="0" height="400" width="600">
+</a>
+</p>
 # My Slideshow 
 
 <p align="center">
@@ -28,7 +30,7 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 # Second Milestone
 My second milestone is all about building and coding the actual robot arm. This requires both mechanical and softeare engineering. To begin with i started assembling the base and added two types of arduino's onto the base. Then i attached a servo onto the bottom of a square plate that is held up by standoffs. Then i attached another square plate to the top of the servo which made the plate rotate. After that i worked on the actual arm. I took another servo and attached it to another plate and attached that to the square plate that was the rotating plate. From there i continued to make the arm with many pieces like the ladder like piece and the thing long connecting pieces. After the arm was built i started making the claw. Here i took a small rectangular plate with a rectangle and two flaps shape cut out. In this hole i put a servo and two other pieces that would help attach the claw to the arm. Then i put another of the same plate two sandwhich a part of the servo so it would stay in place. After this i attached the two claw arms and then attached the completed claw onto the arm. Now that the actual arm is built i then made the circit. Originally it was supposed to use the arduinos that i had added but since that wasn't functioning properly i used a breadboard and a different arduino. First i attached two small yellow wires to each servos red and brown wires. I took the other end of these yellow wires and attached it to the positive and negative parts of the breadboard. Then i attached mate to male jumper wires to the orange wire of each of the servos. These jumper wires then attached to the arduino. After this i put the HC-05 Bluetook module to the bread board and used wires to connect it to the arduino. This concludes the summary of Milestone 2.
 
-[![Milestone 2](https://res.cloudinary.com/marcomontalbano/image/upload/v1659387072/video_to_markdown/images/youtube--OpxY_S4zJ_Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/OpxY_S4zJ_Y "Milestone 2") {:target="_blank" rel="noopener"}
+[![Milestone 2](https://res.cloudinary.com/marcomontalbano/image/upload/v1660335001/video_to_markdown/images/youtube--OpxY_S4zJ_Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/OpxY_S4zJ_Y  "Milestone 2")
 
 # First Milestone
   
