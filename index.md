@@ -47,11 +47,8 @@ Down bellow if the list of matierials, where you can find them, and the cost of 
 | **Item** | **Price** | **Where to Buy** |
 | ------------- | ------------- | ------------- |
 | Arm Kit| $35.99| https://www.amazon.com/LAFVIN-Acrylic-Mechanical-Compatible-Tutorial/dp/B07ZYZVNY4/ref=asc_df_B07ZYZVNY4/?tag=hyprod-20&linkCode=df0&hvadid=416794793908&hvpos=&hvnetw=g&hvrand=11843658966808720427&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-888310049983&psc=1&tag=&ref=&adgrpid=95587149484&hvpone=&hvptwo=&hvadid=416794793908&hvpos=&hvnetw=g&hvrand=11843658966808720427&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-888310049983 |
-
 |M3 Screw and Nut Kit|$12.69|https://www.amazon.com/DYWISHKEY-Pieces-Socket-Screws-Wrench/dp/B07VRC5RJ8/ref=sr_1_1_sspa?crid=SE10C5AAL0IP&keywords=m3+screw+kit&qid=1660241620&sprefix=m3+screw+kit%2Caps%2C214&sr=8-1-spons&psc=1 |
-
 |Breadboard and wires kit|$13.99|https://www.amazon.com/AUKENIEN-Breadboard-Solderless-Breadboards-JumperWires/dp/B0B2DJCL5P/ref=sr_1_1_sspa?crid=1ACF7FBWG977V&keywords=breadboard&qid=1660242976&sprefix=breadb%2Caps%2C483&sr=8-1-spons&psc=1 |
-
 |Arduino|$23.16|https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/ref=sr_1_3?crid=1EJZP12WHCPBL&keywords=arduino&qid=1660241756&sprefix=arduino+%2Caps%2C162&sr=8-3 |
 
 # Schematics 
