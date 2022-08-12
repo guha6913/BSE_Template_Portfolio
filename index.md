@@ -12,10 +12,13 @@ Hi my name is Anusha, i go to Saratoga High School and i am a incoming sophomore
 | Anusha| Saratoga High School | Software Engineering | Incoming Sophomore  
 
 # My Project 
+
 This is a image of my final project. 
+
 <a href="https://ibb.co/X3TCp56"><img src="https://i.ibb.co/tx5Jc2n/IMG-3592.jpg" alt="IMG-3592" border="0" height="400" width="600">
 </a>
 </p>
+
 # My Slideshow 
 
 <p align="center">
