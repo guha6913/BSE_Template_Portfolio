@@ -22,8 +22,8 @@ This is a image of my final project.
 # My Slideshow 
 
 <p align="center">
-<iframe src="https://docs.google.com/presentation/d/1DfKmsKcTwK8LCNlPgYSztJGTcRhwYplkLYXnXaNG3bc/edit#slide=id.p" frameborder="0" frameborder="0" width="760" height="369" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-</p>
+<iframe src="https://docs.google.com/presentation/d/1DfKmsKcTwK8LCNlPgYSztJGTcRhwYplkLYXnXaNG3bc/edit#slide=id.p" frameborder="0" frameborder="0" width="760" height="500" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 
 # Final Milestone
 My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
@@ -44,12 +44,13 @@ My first milestone was to learn how to opperate a servo motor using a app. To do
 
 # Bill of Matierials 
 Down bellow if the list of matierials, where you can find them, and the cost of each indivisual item . The overall cost is about $85.83.
-| **Item** | **Price** | **Where to Buy** |
-| ------------- | ------------- | ------------- |
-| Arm Kit| $35.99| https://www.amazon.com/LAFVIN-Acrylic-Mechanical-Compatible-Tutorial/ |
-|M3 Screw and Nut Kit|$12.69|https://www.amazon.com/DYWISHKEY-Pieces-Socket-Screws-Wrench/dp/B07VRC5RJ8/ref=sr_1_1_sspa?crid=SE10C5AAL0IP&keywords=m3+screw+kit&qid=1660241620&sprefix=m3+screw+kit%2Caps%2C214&sr=8-1-spons&psc=1 |
-|Breadboard and wires kit|$13.99|https://www.amazon.com/AUKENIEN-Breadboard-Solderless-Breadboards-JumperWires/dp/B0B2DJCL5P/ref=sr_1_1_sspa?crid=1ACF7FBWG977V&keywords=breadboard&qid=1660242976&sprefix=breadb%2Caps%2C483&sr=8-1-spons&psc=1 |
-|Arduino|$23.16|https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/ |
+
+ | Item | Qty | Price | Where to Buy |
+| ------------- | ------------- | ------------- | ------------- |
+| Arm Kit | 1  |  $35.99| https://www.amazon.com/LAFVIN-Acrylic-Mechanical-Compatible-Tutorial/ |
+| M3 Screw and Nut Kit| 1  |$12.69 | https://www.amazon.com/DYWISHKEY-Pieces-Socket-Screws-Wrench/dp/B07VRC5RJ8/ref=sr_1_1_sspa?crid=SE10C5AAL0IP&keywords=m3+screw+kit&qid=1660241620&sprefix=m3+screw+kit%2Caps%2C214&sr=8-1-spons&psc=1 |
+| Breadboard and wires kit| 1 | $13.99 | ttps://www.amazon.com/AUKENIEN-Breadboard-Solderless-Breadboards-JumperWires/dp/B0B2DJCL5P/ref=sr_1_1_sspa?crid=1ACF7FBWG977V&keywords=breadboard&qid=1660242976&sprefix=breadb%2Caps%2C483&sr=8-1-spons&psc=1  |
+|Arduino| 1 |  $23.16 |https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/ |
 
 # Schematics 
 This is the wiring diagram that is needed of the servos. 
