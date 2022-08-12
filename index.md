@@ -44,14 +44,14 @@ My first milestone was to learn how to opperate a servo motor using a app. To do
 
 # Bill of Matierials 
 Down bellow if the list of matierials, where you can find them, and the cost of each indivisual item . The overall cost is about $85.83.
-<p align="center">
- | Item | Qty | Price | 
+
+| Item | Qty | Price | 
 | ------------- | ------------- | ------------- | 
 | Arm Kit | 1  |  $35.99| 
 | M3 Screw and Nut Kit| 1  |$12.69 | 
 | Breadboard and wires kit| 1 | $13.99 |
-|Arduino| 1 |  $23.16 |
-</p>
+|Arduino | 1 |  $23.16 |
+
 
 # Schematics 
 This is the wiring diagram that is needed of the servos. 
