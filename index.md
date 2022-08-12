@@ -24,7 +24,7 @@ This is a image of my final project.
 # My Slideshow 
 
 <p align="center">
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS8wXpOMUI9ZGK6URx7cepFxaGjfvMK-50FsJa9imEcLtarxt_vyW_c5u4cHxphAvo3L3OUGiGmEe9h/embed?start=true&loop=true&delayms=3000" frameborder="0" width="600" height="400" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS8wXpOMUI9ZGK6URx7cepFxaGjfvMK-50FsJa9imEcLtarxt_vyW_c5u4cHxphAvo3L3OUGiGmEe9h/embed?start=true&loop=true&delayms=3000" frameborder="0" width="500" height="400" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </p>
 
 # Final Milestone
@@ -47,10 +47,10 @@ Down bellow if the list of matierials, where you can find them, and the cost of 
 
 | Item | Qty | Price | 
 | ------------- | ------------- | ------------- | 
-| Arm Kit | 1  |  $35.99| 
-| M3 Screw and Nut Kit| 1  |$12.69 | 
-| Breadboard and wires kit| 1 | $13.99 |
-|Arduino | 1 |  $23.16 |
+| Arm Kit | 1  | $35.99 | 
+| M3 Screw and Nut Kit | 1  | $12.69 | 
+| Breadboard and wires kit | 1 | $13.99 |
+| Arduino | 1 |  $23.16 |
 
 
 # Schematics 
