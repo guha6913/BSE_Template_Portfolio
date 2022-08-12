@@ -5,7 +5,7 @@ This project is basically the best combination of Software Engineering and Robot
 Hi my name is Anusha, i go to Saratoga High School and i am a incoming sophomore. I have always been interested in coding and robotics, which is why i chose this project. This project is perfect combination of both of my interests, it helps me learn new things as well as use my prior expieeriance. When i say prior expieriance i mean being a part of robotics teams since i was in 4th Grade. I also have taken several coding class in Python and Java. So that is a little about me and now i will show you my project and the process i went through to make it. 
 
 <p align="center">
-<a href="https://ibb.co/RTnrzqS"><img src="https://i.ibb.co/MkTwMmh/IMG-3164.jpg" alt="IMG-3164" border="0" height="400" width="600">
+<a href="https://ibb.co/RTnrzqS"><img src="https://i.ibb.co/MkTwMmh/IMG-3164.jpg" alt="IMG-3164" border="0" height="400" width="500">
 </a>  
 </p>
 
