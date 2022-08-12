@@ -45,12 +45,12 @@ My first milestone was to learn how to opperate a servo motor using a app. To do
 # Bill of Matierials 
 Down bellow if the list of matierials, where you can find them, and the cost of each indivisual item . The overall cost is about $85.83.
 <p align="center">
- | Item | Qty | Price | Where to Buy |
-| ------------- | ------------- | ------------- | ------------- |
-| Arm Kit | 1  |  $35.99| https://www.amazon.com/LAFVIN-Acrylic-Mechanical-Compatible-Tutorial/ |
-| M3 Screw and Nut Kit| 1  |$12.69 | https://www.amazon.com/DYWISHKEY-Pieces-Socket-Screws-Wrench/dp/B07VRC5RJ8/ref=sr_1_1_sspa?crid=SE10C5AAL0IP&keywords=m3+screw+kit&qid=1660241620&sprefix=m3+screw+kit%2Caps%2C214&sr=8-1-spons&psc=1 |
-| Breadboard and wires kit| 1 | $13.99 | ttps://www.amazon.com/AUKENIEN-Breadboard-Solderless-Breadboards-JumperWires/dp/B0B2DJCL5P/ref=sr_1_1_sspa?crid=1ACF7FBWG977V&keywords=breadboard&qid=1660242976&sprefix=breadb%2Caps%2C483&sr=8-1-spons&psc=1  |
-|Arduino| 1 |  $23.16 |https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/ |
+ | Item | Qty | Price | 
+| ------------- | ------------- | ------------- | 
+| Arm Kit | 1  |  $35.99| 
+| M3 Screw and Nut Kit| 1  |$12.69 | 
+| Breadboard and wires kit| 1 | $13.99 |
+|Arduino| 1 |  $23.16 |
 </p>
 
 # Schematics 
